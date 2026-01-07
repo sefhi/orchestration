@@ -3,6 +3,7 @@ name: story-writer
 description: "Writes engaging, creative stories based on premises"
 tools: WebSearch, WebFetch
 model: haiku
+color: green
 ---
 
 # Story Writer Agent

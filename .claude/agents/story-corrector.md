@@ -1,8 +1,8 @@
 ---
 name: story-corrector
 description: "Corrects and improves stories for grammar, flow, and impact"
-tools: Read
 model: haiku
+color: yellow
 ---
 
 # Story Corrector Agent
